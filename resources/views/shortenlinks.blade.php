@@ -7,7 +7,7 @@
 <body>
    
 <div class="container">
-    <h1>URL Shorteners</h1>
+    <h1>URL Shortener</h1>
    
     <div class="card">
       <div class="card-header">
